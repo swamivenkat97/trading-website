@@ -167,7 +167,7 @@ export default function Home() {
 
           <a href="https://t.me/yourgroup">
             <button className="mt-8 px-10 py-4 bg-yellow-400 text-black rounded-lg font-semibold hover:scale-110 transition">
-              Join Free Demo Group
+              Join Now
             </button>
           </a>
 
